@@ -1,5 +1,8 @@
-﻿# *~ ~ASCII ART~ ~*
+﻿# *~ ~ ASCII ART ~ ~*
 
-## For anyone use/contribute-to!
+## For anyone to use/contribute-to!
 
 
+
+* cat_dad.txt
+* musical_note.txt
