@@ -13,7 +13,7 @@ This repository hosts an ever growing bucket of ascii art entries. This collecti
 ### Table of Contents 📖
 <hr>
 
-  - [Welcome](#welcome-to-ASCIIart)
+  - [Welcome](#welcome-to-ASCII_art)
   - [**Get Started**](#get-started-)
   - [Usage](#usage-)
   - [Contribute](#Contribute-)
