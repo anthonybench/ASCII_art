@@ -18,7 +18,7 @@ This repository hosts an ever growing bucket of ascii art entries. This collecti
   - [Usage](#usage-)
   - [Contribute](#Contribute-)
   - [Acknowledgements](#acknowledgements-)
-  - [License/Stats/Author](#license,-Stats,-author-)
+  - [License/Stats/Author](#license-stats-author-)
 
 <br />
 
