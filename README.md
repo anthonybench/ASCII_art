@@ -13,7 +13,7 @@ This repository hosts an ever growing bucket of ascii art entries. This collecti
 ### Table of Contents 📖
 <hr>
 
-  - [Welcome](#welcome-to-ASCII_art)
+  - [Welcome](#welcome-to-ascii_art)
   - [**Get Started**](#get-started-)
   - [Usage](#usage-)
   - [Contribute](#Contribute-)
@@ -52,6 +52,9 @@ Will update this section well after `hacktoberfest2020`.
 
 ### License, Stats, Author 📜
 <hr>
+
+<img align="right" alt="example image tag" src="https://i.imgur.com/jtNwEWu.png" width="200" />
+
 <!-- badge cluster -->
 
 ![GitHub](https://img.shields.io/github/license/anthonybench/ASCII_art) 
@@ -62,6 +65,3 @@ See [License](https://opensource.org/licenses/MIT) for the full license text.
 This repository was authored by *Isaac Yep*.
 
 [Back to Table of Contents](#table-of-contents-)
-
-
-![Imgur](https://i.imgur.com/jtNwEWu.png)
